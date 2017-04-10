@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'chunkfive';
+    src: url('chunkfive-webfont.woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'sinkinsans';
+    src: url('sinkinsans-200xlight-webfont.woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+	text-align: center;
+	font-family: sinkinsans;
+}
+
+h1 {
+	text-align: center;
+	font-family: chunkfive;
+	/*color: #cfffff;*/
+	text-decoration-style: bold;
+}
+
+#headrow {
+	background-color: #8AECF8
+}
+
+#ryan {
+	background-color: #8AECF8
+}
+
+#row2 {
+	background-color: #cfffff
+}
+
+#row3 {
+	background-color: #8AECF8
+}
+
+#resume {
+	background-color: #F7F953
+}
+
+#sites {
+	background-color: #FC9745
+}
+
+#woof {
+	background-color: #247101
+}
+
+#ext
+
+#food
